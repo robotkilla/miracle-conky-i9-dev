@@ -1,6 +1,6 @@
-# miracle-conky
+# miracle-conky-i9
 
-In this project I share my conky configuration. You can fork it and adjust these scripts to your needs.
+I am starting with miracle-conky as my base for a project to learn LUA, Cairo and some other stuff.
 
 ## Whats the difference
 
