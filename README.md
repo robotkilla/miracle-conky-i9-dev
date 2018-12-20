@@ -16,7 +16,7 @@ amound of cpu cores, the network, the network speed, the mounted drives and if a
 
 This conky configuration needs a conky with lua support and the libraries cairo and imlib2.
 
-I tested, developed and using it with gnome 3.26 in manjaro linux using the package `conky-lua-nv`.
+I tested on Pop!\_OS.
 
 ## Install
 
