@@ -1,16 +1,7 @@
 # miracle-conky-i9
 
 I am starting with miracle-conky as my base for a project to learn LUA, Cairo and some other stuff.
-
-## Whats the difference
-
-In many conky configurations you find the old style configuration and can't make it really dynamically. Even
-with the new lua configuration scripts you can not make it dynamically to the current status of your
-environment. The configuration script is only executed at the beginning and when it gets changed.
-
-So the result was to have everything in the lua hook (text, icons, graphs, bars). The reason for this script
-was to have the same configuration file on each machine (desktop, notebook). It automatically detects the
-amound of cpu cores, the network, the network speed, the mounted drives and if a battery is available.
+https://github.com/tflori/miracle-conky
 
 ## Requirements
 
